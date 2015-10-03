@@ -47,4 +47,9 @@ help - displays available shell commands
 
 ### 1.4 Forking and Cloning Reflection
 
+**If you were going to write instructions fro a new person on how to create a new repo, fork a repo, and clone a repo, what would they be? Why would you fork a repository as opposed to create a new one?**
+First, login to your GitHub account. There should be a little plus sign near the top right. Click on that and choose ‘new repository’ from the drop-down. In the new page, type in your repository name, choose to make it public or private, and add a license. Open the repository in your profile and on the bottom right of the page, clone the url.
+Next, open your terminal, change directories to the directory you’d like to house your repository, and type “git clone CLONED-URL.”
 
+**What struggles did you have setting up git and GitHub? What did you learn in the process?**
+I didn’t experience any problems setting up git and GitHub, but I learned the basic functions of Git and GitHub and how they are different.
