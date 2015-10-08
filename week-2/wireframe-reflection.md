@@ -1,6 +1,6 @@
-![main-index-wireframe](../../mrYakamoto.github.io/wireframe-main-index.png)
+![main-index-wireframe](/week-2/imgs/wireframe-blog-index.png)
 
-![blog-index-wireframe](../../mrYakamoto.github.io/blog/wireframe-blog-index.png)
+![blog-index-wireframe](/week-2/imgs/wirefram-main-index.png)
 
 **What is a wireframe?**
 
