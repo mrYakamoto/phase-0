@@ -1,6 +1,6 @@
-![main-index-wireframe](/week-2/imgs/wireframe-blog-index.png)
+![main-index-wireframe](/imgs/wireframe-blog-index.png)
 
-![blog-index-wireframe](/week-2/imgs/wirefram-main-index.png)
+![blog-index-wireframe](/imgs/wireframe-main-index.png)
 
 **What is a wireframe?**
 
