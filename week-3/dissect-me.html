@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta  charset="utf-8">
+ <title>This is the title</title>
+</head>
+
+<body>
+  <article>
+    <header>
+      <h1># 1.5 Tracking Changes Reflection</h1>
+    </header>
+    <section>
+      <h2>How does tracking and adding changes make developers' lives easier?</h2>
+      <p>Using a VCS to track and add changes enables developers to easily track progress of a project. If a problem should arise, a developer will be able to go through the log, pinpoint what went wrong, see who created the error, and easily excise the faulty material.</p>
+    </section>
+
+    <section>
+      <h2>**What is a commit?**</h2>
+      <p>A commit is a brief explanation of changes made to a file.</p>
+    </section>
+
+    <section>
+      <h2>**What are the best practices for commit messages?**</h2>
+      <p>Commit messages should be written in the imperative, have a brief summation in 50 words or less, and attempt to most accurately convey all changes made.</p>
+    </section>
+
+    <section>
+      <h2>**What does the HEAD^ argument mean?**</h2>
+      <p>HEAD is the commit that you're currently working on. HEAD^ can be used to refer to the previous commit.
+        git reset --soft HEAD^ can be used to revert to the previous commit if the user decides they'd like to change it.</p>
+      </section>
+
+      <section>
+        <h2>**What are the 3 stages of a git change and how do you move a file from one stage to anther?**</h2>
+        <p>The 3 stages of a git change are 'modified', 'staged', and 'committed'. When working on a file it's being modified. By 'staging' it, you're setting it up to be saved in its current state. Once committed, the files that have been staged are permanently saved to your directory.</p>
+      </section>
+
+      <section>
+        <h2>**Write a handy cheatsheet of the commands you need to commit you changes.**</h2>
+        <p>
+          git status
+          git add FILE-NAME
+          git commit -m "COMMIT-MESSAGE"
+        </p>
+      </section>
+
+      <section>
+        <h2>**What is a pull request and how do you create and merge one?**</h2>
+        <p>A pull request is used to upload and merge your local changes to the remote master branch. After pushing changes to a remote branch, navigate to that branch on GitHub, and click the 'pull request' button. After making sure the 'base' is the correct master branch, click 'create pull request.' To merge that, click on the pull request, click the button 'merge pull request', and confirm. Once merged, delete the branch that was merged.</p>
+      </section>
+
+      <section>
+        <h2>**Why are pull requests preferred when working with teams?**</h2>
+        <p>Pull requests easily identify who made changes, what changes were made, and why.</p>
+      </section>
+    </article>
+  </body>
+  </html>
