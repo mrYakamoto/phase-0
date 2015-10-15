@@ -59,23 +59,56 @@ table {
 .center-children { text-align: center; }
 
 /*
--What is important to know when linking an external file (like a stylesheet) to an HTML file?
+-What is important to know when linking an external file (like
+a stylesheet) to an HTML file?
 
-To link an external file to an HTML, it's important to know the "rel" attribute, which indicates the relationship of the linked file to the current file. I also specify the "type" attribute. When linking to the file, you have to navigate from the directory that the HTML file resides in all the way to the desired file.
+To link an external file to an HTML, it's important to know the
+"rel" attribute, which indicates the relationship of the linked
+file to the current file. I also specify the "type" attribute.
+When linking to the file, you have to navigate from the directory
+that the HTML file resides in all the way to the desired file.
 
--What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+-What tricks did you use to help you with positioning? How hard
+was it to get the site as you wanted it?
 
-I had a lot of trouble getting the format of the site correct. First, I tried to use floating on a single text block to turn the main links into two columns. After I realized that a table would keep everything more aligned, I had to do a little research on tables to get up to speed. The vertical-align property and adjusting the margins were probably the most important in correctly positioning things.
+I had a lot of trouble getting the format of the site correct.
+First, I tried to use floating on a single text block to turn the
+main links into two columns. After I realized that a table would
+keep everything more aligned, I had to do a little research on
+tables to get up to speed. The vertical-align property and
+adjusting the margins were probably the most important in
+correctly positioning things.
 
--What CSS did you use to modify the element style (like size, color, etc.)
+-What CSS did you use to modify the element style (like size,
+color, etc.)
 
-I tried to use a little bit of the atomic style that I learned about in one of the videos. It helped me with maintaining relative font size and margins.
+I tried to use a little bit of the atomic style that I learned
+about in one of the videos. It helped me with maintaining relative
+font size and margins.
 
--Did you modify the HTML to include classes or ids? If so, which did you chose and why? If you didn't, how would you know which one to add to your HTML?
+-Did you modify the HTML to include classes or ids? If so, which
+did you chose and why? If you didn't, how would you know which one
+to add to your HTML?
 
-I chose to use classes and kind of half try the atomic style. From the research I've done, it seems like using classes for CSS is a good practice and ids are best left for content in need of javaScript. By using classes, it was a little easier to automatically apply the font-sizes and margins I needed without having to think about it or re-type the entire thing.
+I chose to use classes and kind of half try the atomic style.
+From the research I've done, it seems like using classes for CSS
+is a good practice and ids are best left for content in need of
+javaScript. By using classes, it was a little easier to automatically
+apply the font-sizes and margins I needed without having to think
+about it or re-type the entire thing.
 
--When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+-When you compared your site to the actual code base, which do you
+think had cleaner code that followed best practices and why?
 
-Honestly, I got pretty stuck for a while, and I didn't realize we weren't supposed to look at the source code yet. I looked at the code to see what the heck I was doing wrong with formatting the main links and discovered that they were indeed using a table instead of what I was trying to do. From there, I was able to figure the rest of the page out. My page looks extremely close to the actual Berkshire page, but I think there's a fair amount of polishing and streamlining I could do to my code. They do use style elements in the HTML on the actual Berkshire page, which I believe is not a best practice, but outside of that their code looks a little cleaner than mine at this point.
+Honestly, I got pretty stuck for a while, and I didn't realize we
+weren't supposed to look at the source code yet. I looked at the code
+to see what the heck I was doing wrong with formatting the main links
+and discovered that they were indeed using a table instead of what I
+was trying to do. From there, I was able to figure the rest of the
+page out. My page looks extremely close to the actual Berkshire page,
+but I think there's a fair amount of polishing and streamlining I
+could do to my code. They do use style elements in the HTML on the
+actual Berkshire page, which I believe is not a best practice, but
+outside of that their code looks a little cleaner than mine at this
+point.
 */
