@@ -1,0 +1,70 @@
+/*
+Put the line breaks in (use CSS rather than HTML)
+*/
+
+* {
+  color: #000080;
+}
+
+header p {
+  font-weight: bold;
+  font-size: 1.15em;
+  display: inline;
+}
+
+li p {
+  font-size: .65em;
+  margin-top: 5px;
+}
+
+td {
+  width: 50%;
+  padding-bottom: 0px;
+}
+
+ul {
+  margin: 12px 0px 12px 0px;
+}
+
+table {
+  width: 90%;
+  border-collapse: collapse;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.line-break {
+  border: 1px solid gray;
+  border-width: 1px;
+  clear: both;
+}
+
+.warren-img {
+  height: 153px;
+  width: 219px;
+  float: left;
+  margin-left: 50px;
+}
+
+.va-top { vertical-align: top; }
+.debug { border: 1px solid red; }
+.pd-l { padding-left: 40px; }
+.pd-t { padding-top: 15px; }
+.pd-b { padding-bottom: 15px; }
+.marg-b { margin-bottom: 15px; }
+.marg-t { margin-top: 15px; }
+.marg-no-top { margin-top: 0px; }
+
+.lt-big { font-size: 2.1em;}
+.lt-med { font-size: 1em;}
+.lt-sm { font-size: .8em;}
+.lt-xs { font-size: .6em;}
+
+.lt-str { font-weight: 900; }
+.lt-inl { display: inline-block; }
+
+.fl-r { float: right; }
+.fl-c { float: center;}
+.w-med { width: 500px; }
+
+.center-children { text-align: center; }
