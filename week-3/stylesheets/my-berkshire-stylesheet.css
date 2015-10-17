@@ -30,8 +30,9 @@ table {
 }
 
 .line-break {
-  border: 1px solid gray;
+  border: 1px outset gray;
   border-width: 1px;
+  border-bottom-width: 0;
   clear: both;
 }
 
