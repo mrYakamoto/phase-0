@@ -1,5 +1,3 @@
-<!--
-
 - How can you use Chrome's DevTools inspector to help you format or position elements?
 
 I found Chrome's DevTools to be most useful for figuring out problem aspects of elements that I couldn't get positioned correctly. Scrolling through the items to see where margins were that I didn't know where there was very useful. It's real-time responsiveness makes it great for trying out options on elements.
@@ -47,4 +45,3 @@ I liked this challenge. The "position" and "display" values have been two of the
 
 9. Get Creative
 ![alt text](/week-3/imgs/3.4.9.png "9. Get Creative")
-  -->
