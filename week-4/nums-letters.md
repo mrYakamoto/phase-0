@@ -1,6 +1,6 @@
-**What does <pre><code>puts</code></pre> do?**
+**What does ```puts``` do?**
 
-<pre><code>puts</code></pre> returns nil and prints to the console with a new line.
+```puts``` returns nil and prints to the console with a new line.
 
 **What is an integer? What is a float?**
 
@@ -20,6 +20,19 @@ puts "There're #{24*365} hours in a normal year"
 
 puts "There're between #{60*24*365*10+48*60} and #{60*24*365*10+72*60} minutes in a decade"
 ```
+
+**4.2.1**
+
+https://github.com/mrYakamoto/phase-0/blob/master/week-4/defining-variables.rb
+
+**4.2.2**
+
+https://github.com/mrYakamoto/phase-0/blob/master/week-4/simple-string.rb
+
+**4.2.3**
+
+https://github.com/mrYakamoto/phase-0/blob/master/week-4/basic-math.rb
+
 
 **How does Ruby handle addition, subtraction, multiplication, and**
 **division of numbers**
