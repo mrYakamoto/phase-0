@@ -1,0 +1,38 @@
+.debug { border: 1px solid red; }
+
+header {
+    background-color: #98CCA0;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+header h1 {
+    font-family: sans-serif;
+    margin-bottom: 0;
+}
+
+.column-1 {
+    background-color: #FEDEFF;
+    width: 45%;
+    margin-bottom: 10px;
+    display: inline-block;
+    margin-left: 2.5%;
+    padding: 5px;
+}
+.column-2 {
+    background-color: #FFE68D;
+    width: 45%;
+    float: right;
+    margin-right: 2.5%;
+    padding: 5px;
+}
+footer {
+    background-color: #98CCA0;
+    clear: both;
+    text-align: center;
+    padding: 10px;
+}
+
+.columns{
+    border: 0px solid red;
+}
