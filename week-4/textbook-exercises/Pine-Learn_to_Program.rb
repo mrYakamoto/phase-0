@@ -1,6 +1,16 @@
 
 
+
 =begin
+
+6.2
+
+  puts"Table of Contents".center(50)
+  puts("")
+  puts"Chapter 1: Getting Started".ljust(30) + "page 1".rjust(20)
+  puts"Chapter 2: Numbers".ljust(30) + "page 9".rjust(20)
+  puts"Chapter 3: Letters".ljust(30) + "page 13".rjust(20)
+
 
 5.5
 
@@ -19,6 +29,7 @@ middle_name = gets.chomp
 puts "Alright, " + first_name + " " + middle_name + ", what's your last name?"
 last_name = gets.chomp
 puts "Excellent, I shall call you " + first_name + " " + middle_name + " " + last_name + "!"
+
 
 5.6.2
 
