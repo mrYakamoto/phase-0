@@ -18,6 +18,13 @@ puts "Well, that's all fine and good if you want to settle for a puny number lik
 
 =begin
 
+4.3.1 [Return a Formatted Address]
+https://github.com/mrYakamoto/phase-0/blob/master/week-4/address/my_solution.rb
+
+4.3.2 [Defining Math Methods]
+https://github.com/mrYakamoto/phase-0/blob/master/week-4/math/my_solution.rb
+
+4.3 REFLECTIONS
 How do you define a local variable?
   Simply type variable_name = value
 
