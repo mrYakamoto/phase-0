@@ -13,7 +13,7 @@
 
 # Your Solution Below
 def longest_string(list_of_words)
-  if list_of_words.length === 0
+  if list_of_words.length == 0
     return nil
   end
   longest = list_of_words[0]
