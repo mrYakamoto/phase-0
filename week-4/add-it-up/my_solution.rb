@@ -16,13 +16,13 @@
 
 # 1. total initial solution
 
-#def total (array)
-#  total = 0
-#  array.each do |x|
-#   total += x
-#  end
-#  total
-#end
+def total (array)
+  total = 0
+  array.each do |x|
+   total += x
+  end
+  total
+end
 
 
 # 3. total refactored solution
@@ -35,10 +35,10 @@ end
 
 
 # 4. sentence_maker pseudocode
-# make sure all pseudocode is commented out!
-# Input: Array of strings
-# Output: String
-# Steps to solve the problem.
+ make sure all pseudocode is commented out!
+ Input: Array of strings
+ Output: String
+ Steps to solve the problem.
 
 
 # 5. sentence_maker initial solution
