@@ -54,7 +54,7 @@ regions in ascending order by region_id. Refer to the region by name.
    ...> INNER JOIN states
    ...> ON regions.id=states.region_id;
 
-   ![wardrobe schema](https://github.com/mrYakamoto/phase-0/tree/master/week-8/database-intro/wardrobe_schema.png)
+   ![wardrobe schema](https://raw.githubusercontent.com/mrYakamoto/phase-0/master/week-8/database-intro/wardrobe_schema.png)
 
 
 REFLECTION
