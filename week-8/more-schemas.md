@@ -1,13 +1,13 @@
 #Release 2: Create a One-to-one Schema
 
-![one-to-one schema](#)
+![one-to-one schema](https://raw.githubusercontent.com/mrYakamoto/phase-0/master/week-8/imgs/one-to-one%20schema.png)
 
 I believe the above is a decent example of a one-to-one
 relationship. Each movie in this example will have at most
 one studio, but some movies included will be independents that
 have no studio attached.
 
-![many-to-many](#)
+![many-to-many](https://raw.githubusercontent.com/mrYakamoto/phase-0/master/week-8/imgs/many-to-many.png)
 
 ##Reflection
 
