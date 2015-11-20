@@ -1,7 +1,7 @@
 //8.3 Tally Votes in JavaScript Pairing Challenge.
 
-// I worked on this challenge with
-// This challenge took me [#] hours.
+// I worked on this challenge with Fatma Ocal
+// This challenge took me 2 hours.
 
 // These are the votes cast by each student. Do not alter these objects here.
 
