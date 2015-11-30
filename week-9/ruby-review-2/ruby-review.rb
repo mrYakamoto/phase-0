@@ -59,3 +59,21 @@ class LocalCohort < Cohort
   end
 end
 
+# Reflection
+
+# What concepts did you review in this challenge?
+# I reviewed Ruby classes and attribute accessors. I learned
+# about sub classes and class inheritance.
+
+# What is still confusing to you about Ruby?
+# I don't think this was a particularly useful example of
+# subclasses. I'd like to practice with a more involved
+# answer that I can see the benefits of subclasses more
+# clearly. This was a good demonstration of inheritance,
+# but not necessarily of the subclass adding much of its
+# own functionality.
+
+# What are you going to study to get more prepared for Phase 1?
+# Nothing, I'm starting tomorrow. I'm excited to learn more about
+# classes and inheritance though.
+
